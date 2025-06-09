@@ -1,0 +1,17 @@
+My Personal and Academic Goals for Next Year
+
+Become job-ready as a front-end developer by mastering JavaScript, React, and Tailwind CSS.
+
+Strengthen my backend development skills with Node.js, MongoDB, and Supabase.
+
+Build and deploy at least three full-stack projects, including my therapy chatbot, Vera.
+
+Complete the ALX software engineering program and apply for internship or junior developer roles.
+
+Expand my social media series like "100 Days of Java" to document and share my learning journey.
+
+Improve time management by sticking to a consistent weekly learning and project schedule.
+
+Engage more actively in tech communities like Eureka and contribute to open-source projects.
+
+Continue developing solutions that address real-life problems, especially in agriculture and mental health.
