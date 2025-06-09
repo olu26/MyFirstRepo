@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Oluchukwu Ordiah, a passionate and driven software engineer with a deep interest in building intuitive and impactful digital experiences. I'm currently on a journey of self-discovery and growth, committed to honing my skills in front-end development with tools like HTML, CSS, JavaScript, and Tailwind CSS. I’m also expanding my backend knowledge with technologies like Node.js, MongoDB, and Supabase, and I'm actively involved in projects that address real-world challenges — such as a smart irrigation solution for rural farmers and a therapy chatbot designed for emotional well-being.
+
+As a learner in the ALX program and a participant in tech communities like Eureka and the VibCoding Hackathon, I continuously seek opportunities to collaborate, solve problems creatively, and inspire others — especially teenagers — to explore the possibilities in tech. Whether I'm designing interfaces, building apps, or sharing knowledge through initiatives like “100 Days of Java,” my goal is to create meaningful solutions and grow into a well-rounded, job-ready software engineer.
