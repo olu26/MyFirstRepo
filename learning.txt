@@ -1,0 +1,4 @@
+Something I’ve Learned So Far in This Course
+
+One of the most valuable things I’ve learned so far in this course is how to break down complex programming problems into smaller, manageable tasks. This approach has helped me understand core concepts in JavaScript and how they apply to real-world projects. I’ve also gained hands-on experience working with version control tools like Git, collaborating with peers, and following best practices in software development. These lessons have improved my confidence and made me more comfortable building and debugging code on my own.
+
